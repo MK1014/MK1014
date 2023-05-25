@@ -38,6 +38,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=MK1014&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
+<a href="https://github.com/MK1014">
+  <img src="https://github-readme-stats.vercel.app/api?username=MK1014&count_private=true" />
+</a>
+
 ### Most Used Languages
 <a href="https://github.com/MK1014">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK1014&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
