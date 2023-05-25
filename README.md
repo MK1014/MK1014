@@ -34,13 +34,11 @@ Here are some ideas to get you started:
 ---
 
 ### Github Analytics
-<a href="https://github.com/MK1014">
-  <img src="https://github-readme-stats.vercel.app/api?username=MK1014&count_private=true&show_icons=true&include_all_commits=true" />
+<a href="https://github.com/smallo">
+  <img src="https://github-readme-stats.vercel.app/api?username=smallo&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
-<a href="https://github.com/MK1014">
-  <img src="https://github-readme-stats.vercel.app/api?username=MK1014&count_private=true" />
-</a>
+
 
 ### Most Used Languages
 <a href="https://github.com/MK1014">
